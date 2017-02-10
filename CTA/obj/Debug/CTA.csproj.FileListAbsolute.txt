@@ -1,0 +1,15 @@
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\bin\Debug\CTA.exe.config
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\bin\Debug\CTA.exe
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\bin\Debug\CTA.pdb
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.csprojResolveAssemblyReference.cache
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.Form1.resources
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.Properties.Resources.resources
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.csproj.GenerateResource.Cache
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.exe
+C:\Users\Krunal\Desktop\hw7\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.pdb
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\CTA-Analysis\CTA-Analysis\CTA\bin\Debug\CTA.exe.config
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.exe
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.pdb
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\N-Tier CTA-Analysis\CTA-Analysis\CTA\bin\Debug\CTA.exe.config
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\N-Tier CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.exe
+C:\Users\krupa\Desktop\Krunal Patel\Krunal Patel\N-Tier CTA-Analysis\CTA-Analysis\CTA\obj\Debug\CTA.pdb
